@@ -93,5 +93,44 @@ The system provides **interpretable, multi-system risk stratification** and **ev
 
 ---
 
-## Architecture Overview
+## Example Use Cases
+
+- Outpatient clinic risk stratification
+- Early identification of multi-morbidity risk
+- Chronic disease monitoring support
+- Clinical education and training
+- Hackathons and academic demonstrations
+
+---
+
+## Ethical & Safety Notice
+
+This system is a **Clinical Decision Support Tool** and:
+
+- Does not provide diagnoses
+- Does not prescribe treatments
+- Does not act autonomously
+- Requires clinician review and judgment
+
+All outputs are intended for **informational and decision-support purposes only**.
+
+---
+
+## Project Status
+
+- Functional prototype
+- Intended for hackathons, demonstrations, and academic evaluation
+- Not approved for clinical deployment
+- Further validation required for real-world use
+
+---
+
+## Running the Project
+
+### Backend
+```bash
+cd backend
+pip install -r requirements.txt
+python app.py
+
 
